@@ -1,14 +1,18 @@
-# Full-stack-lut
-Full-stack course LUT
+# Full-stack course LUT
 
 Camilla Hänninen
 
-Instructions on how to run the project:
-**Install dependencies
-npm install
+## Instructions on how to run the project:
 
-**Open on localhost:5000
-npm start
+
+**Install dependencies**
+
+`npm install`
+
+**Open on localhost:5000**
+
+`npm start`
+
 
 
 Video showing the project working:
