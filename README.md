@@ -17,3 +17,11 @@ Camilla Hänninen
 
 Video showing the project working:
 ----
+
+
+
+----
+**Coursework sources:**
+- Node.js:
+  - https://www.youtube.com/watch?v=fBNz5xF-Kx4
+  - https://github.com/bradtraversy/node_crash_course
