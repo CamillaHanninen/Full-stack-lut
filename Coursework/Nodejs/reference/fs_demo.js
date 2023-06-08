@@ -1,5 +1,5 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require('fs')
+const path = require('path')
 
 // Create a folder
 // fs.mkdir(path.join(__dirname, '/test'), {}, err => {
@@ -14,8 +14,8 @@ const path = require('path');
 //   err => {
 //     if(err) throw err;
 //     console.log('File written to');
-    
-    // Appends to a file
+//
+// Appends to a file
 //     fs.appendFile(
 //       path.join(__dirname, '/test', 'hello.txt'),
 //       '<3 Node.js,
@@ -36,15 +36,13 @@ const path = require('path');
 //     console.log(data);
 //   });
 // Prints 'Hello ! <3 Node.js' from hello.txt
-    
-// Renames a file    
+//
+// Renames a file
 fs.rename(
   path.join(__dirname, '/test', 'hello.txt'),
   path.join(__dirname, '/test', 'newHello.txt'),
   (err) => {
-    if(err) throw err;
-    console.log('File renamed');
+    if (err) throw err
+    console.log('File renamed')
   }
-);
-    
-    
+)
