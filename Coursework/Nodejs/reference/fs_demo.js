@@ -6,7 +6,7 @@ const path = require('path')
 //  if(err) throw err;
 //    console.log('Folder created');
 // });
-
+//
 // Create and write to a file (clatest can overwrite files)
 // fs.writeFile(
 //   path.join(__dirname, '/test', 'hello.txt'),
@@ -26,7 +26,7 @@ const path = require('path')
 //     );
 //   }
 // );
-
+//
 // Reads a file
 // fs.readFile(
 //   path.join(__dirname, '/test', 'hello.txt'),
